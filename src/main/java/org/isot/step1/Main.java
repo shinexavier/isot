@@ -1,7 +1,6 @@
-package org.isot;
+package org.isot.step1;
 
-import org.isot.types.BaseUnit;
-import org.isot.types.DerivedUnit;
+import org.isot.step1.types.DerivedUnit;
 
 public class Main {
     public static void main(String[] args) {

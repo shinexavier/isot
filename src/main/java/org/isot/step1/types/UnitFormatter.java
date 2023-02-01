@@ -1,4 +1,4 @@
-package org.isot.types;
+package org.isot.step1.types;
 
 import org.apache.commons.text.StringEscapeUtils;
 

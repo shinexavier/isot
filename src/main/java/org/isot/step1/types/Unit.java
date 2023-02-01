@@ -1,4 +1,4 @@
-package org.isot.types;
+package org.isot.step1.types;
 
 import java.util.LinkedHashMap;
 import java.util.Optional;
